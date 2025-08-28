@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contact Manager - Laravel CRUD Application
 
 A Laravel-based contact management system with XML bulk import functionality.
@@ -112,3 +113,6 @@ A Laravel-based contact management system with XML bulk import functionality.
 - Form validation includes both client-side and server-side checks
 - Success and error messages are displayed using Laravel's session flash data
 - The XML import validates file type and size before processing
+=======
+# contact-manager
+>>>>>>> 55640919d69f78a902bc782d028df19833c3a431
