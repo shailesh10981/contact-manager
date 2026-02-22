@@ -1,5 +1,5 @@
 
-# Contact Manager - Laravel CRUD Application
+# Contact Manager - Laravel CRUD Application example
 
 A Laravel-based contact management system with XML bulk import functionality.
 
